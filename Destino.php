@@ -1,9 +1,9 @@
 <?php 
 
 	if(strlen($_POST['Mensaje'])<5)
-		include "MenorACinco.html";
+		include "MenorACinco.php";
 	else
-		include "MayorACinco.html";
+		include "MayorACinco.php";
 		
 
  ?>

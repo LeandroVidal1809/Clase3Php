@@ -3,10 +3,11 @@
 	<title></title>
 </head>
 <body>
-	<form Method="POST" action="Destino.php";>
+
+	<form Method="POST" action="Destino.php">
  			<input type="text" name="Mensaje" >
  			<input type="submit">
- 			
+
  			
 
 
